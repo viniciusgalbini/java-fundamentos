@@ -5,7 +5,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_05 {
+public class s_exercicio_05 {
     public static void main(String[] args) {
 
         // Define o padrão de localização para usar ponto como separador decimal
